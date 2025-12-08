@@ -1,6 +1,6 @@
-# Automatic Mail Responder ✉️⚡
+# SynapseMail ✉️⚡
 
-Welcome to **Automatic Mail Responder**, a streamlined, synergy-optimized, productivity-enhancing solution engineered to handle incoming emails with style, speed, and just a sprinkle of chaos-taming automation.
+Welcome to **SynapseMail**, a streamlined, synergy-optimized, productivity-enhancing solution engineered to handle incoming emails with style, speed, and just a sprinkle of chaos-taming automation.
 
 This system monitors an inbox, detects unread messages, auto-generates replies using customizable HTML templates, and sends them out with your signature flair.
 
