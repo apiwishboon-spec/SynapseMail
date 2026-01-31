@@ -1,5 +1,5 @@
 on:
-  SynapseMail.py:
+  issues:
     types: [opened]
 
 jobs:
