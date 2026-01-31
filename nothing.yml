@@ -1,0 +1,13 @@
+on:
+  SynapseMail.py:
+    types: [opened]
+
+jobs:
+  comment:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Rick Roll
+        uses: TejasvOnly/random-rickroll@v1.0
+        with:
+        message: Got you 55555555
+          percentage: 100
